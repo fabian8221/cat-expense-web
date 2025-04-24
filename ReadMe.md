@@ -5,6 +5,7 @@ A sleek, client-side React + Vite + Tailwind CSS app for home assignment.
 ## ✨ Features
 
 - 📥 Add expenses with **item**, **category**, and **amount**
+- 🛑 Input **validation** for required fields and numeric amount
 - 📢 Get a random cat fact every time you open the add-expense dialog (from [catfact.ninja](https://catfact.ninja/))
 - 🧠 Smart and elegant UI/UX with intuitive layout
 - 📝 **Edit** existing expenses directly from the UI
